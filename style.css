@@ -7,7 +7,7 @@
 .main{
     margin-top: 100px;
     margin-left: 100px;
-    background-color: red;
+    background-color: rgb(233, 221, 221);
     padding: 10px;
 }
 
@@ -46,7 +46,7 @@
 .banner-heading {
     font-size: xx-large;
     font-weight: 400;
-    color: brown;
+    color: rgb(224, 143, 143);
     text-align: center;
 }
 
